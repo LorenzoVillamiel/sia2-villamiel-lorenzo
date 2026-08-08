@@ -27,3 +27,31 @@ List at least three (3) learning goals that you would like to achieve this semes
 - Web Application Development
 
 ---
+
+## About Me
+
+Write a short introduction about yourself.
+
+- Programming Languages used:
+    - Java
+    - Python
+    - C#
+    - C
+    - C++
+    
+- Technologies you have used:
+    - Laravel
+    - Unity
+    - Visual Studio Code
+    - Notepad ++
+    - VmWare
+    - Ubuntu
+    - MacOS
+    - Windows
+
+- Career goals:
+    - Having businesses related in the IT Industry
+    - Having my own company
+    - To have years of experience within my expertise in the Technology
+
+---
